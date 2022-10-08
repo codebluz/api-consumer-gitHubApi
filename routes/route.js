@@ -4,7 +4,7 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0;
 
 const router = express.Router();
 
-router.get('/', RepositoryController.requestData);
+router.get('/repo', RepositoryController.requestData);
 
 export default router;
 
