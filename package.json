@@ -1,0 +1,16 @@
+{
+  "name": "api_git",
+  "version": "1.0.0",
+  "description": "consume git hub api",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bruno Luz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "express": "^4.18.1"
+  }
+}
