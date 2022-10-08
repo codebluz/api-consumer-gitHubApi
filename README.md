@@ -1,8 +1,6 @@
-<h2>Api intermediária para consumo de repositório do Github</h2>
+# Api intermediária para consumo de repositório do Github
 
 Para utilização, instale as dependências
-<hr/>
 
-npm install express
-
-npm install axios
+1. npm install express
+2. npm install axios
