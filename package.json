@@ -1,6 +1,9 @@
 {
   "name": "apigithub",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.14.2"
+  },
   "description": "",
   "type": "module",
   "main": "app.js",
